@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+    <group>
+        <name>ИП-017</name>
+        <facultet>ИВТ</facultet>
+        <cource>2</cource>
+        <students>
+            <student>
+                <name>Наумов Никита</name>
+                <marks>
+                    <mark>2</mark>
+                    <mark>2</mark>
+                    <mark>2</mark>
+                    <mark>1</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Хьюго Михаил</name>
+                <marks>
+                    <mark>1</mark>
+                    <mark>2</mark>
+                    <mark>1</mark>
+                    <mark>0</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Василий Васильев</name>
+                <marks>
+                    <mark>0</mark>
+                    <mark>1</mark>
+                    <mark>0</mark>
+                    <mark>1</mark>
+                </marks>
+            </student>
+        </students>
+        <subjects>
+            <subject>
+                <name>Мат. Логика</name>
+            </subject>
+            <subject>
+                <name>Программирование</name>
+            </subject>
+            <subject>
+                <name>СиАОД</name>
+            </subject>
+            <subject>
+                <name>Английский язык</name>
+            </subject>
+        </subjects>
+    </group>
+    <group>
+        <name>РС-01</name>
+        <facultet>МРМ</facultet>
+        <cource>1</cource>
+        <students>
+            <student>
+                <name>Александр Комин</name>
+                <marks>
+                    <mark>2</mark>
+                    <mark>2</mark>
+                    <mark>2</mark>
+                    <mark>2</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Николай Николаев</name>
+                <marks>
+                    <mark>1</mark>
+                    <mark>1</mark>
+                    <mark>1</mark>
+                    <mark>1</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Ибрагим Иванов</name>
+                <marks>
+                    <mark>0</mark>
+                    <mark>0</mark>
+                    <mark>0</mark>
+                    <mark>0</mark>
+                </marks>
+            </student>
+        </students>
+        <subjects>
+            <subject>
+                <name>Философия</name>
+            </subject>
+            <subject>
+                <name>Физическая культура</name>
+            </subject>
+            <subject>
+                <name>Связь</name>
+            </subject>
+        </subjects>
+    </group>
+    <group>
+        <name>АА-82</name>
+        <facultet>АЭС</facultet>
+        <cource>5</cource>
+        <students>
+            <student>
+                <name>Ян Янов</name>
+                <marks>
+                    <mark>2</mark>
+                    <mark>1</mark>
+                    <mark>2</mark>
+                    <mark>0</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Архип Англович</name>
+                <marks>
+                    <mark>0</mark>
+                    <mark>1</mark>
+                    <mark>0</mark>
+                    <mark>2</mark>
+                </marks>
+            </student>
+            <student>
+                <name>Гомель Студиев</name>
+                <marks>
+                    <mark>1</mark>
+                    <mark>1</mark>
+                    <mark>0</mark>
+                    <mark>2</mark>
+                </marks>
+            </student>
+        </students>
+        <subjects>
+            <subject>
+                <name>Например</name>
+            </subject>
+            <subject>
+                <name>Какой-то</name>
+            </subject>
+            <subject>
+                <name>Предмет</name>
+            </subject>
+            <subject>
+                <name>Не придумал</name>
+            </subject>
+        </subjects>
+    </group>
+</groups>

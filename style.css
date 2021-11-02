@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(189, 255, 183);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+}
+
+.task1 .table {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	border: 1px solid lightgray;
+	margin-top: 20px;
+}
+
+.task1 .table .row {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 0;
+}
+
+.task1 .table .row.header {
+	background-color: lightgray;
+}
+
+.task1 .table .row .cell {
+	width: 25%;
+}
+
+#resSpan {
+	display: block;
+	margin-top: 10px;
+}
